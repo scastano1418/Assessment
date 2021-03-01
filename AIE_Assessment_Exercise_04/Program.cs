@@ -3,6 +3,7 @@
  */
 
 using System;
+using System.IO;
 
 namespace AIE_Assessment_Exercise_04
 {
@@ -20,9 +21,21 @@ namespace AIE_Assessment_Exercise_04
                 numbers[i] = Int32.Parse(values[i]);
             }
 
-            // TODO:
-            // Write a function that accepts the integer array 'numbers' and 
-            // returns the sum of the array
+            int result = SumNumbers(numbers);
+            Console.WriteLine(result);
         }
-    }
+
+
+         static int SumNumbers(int[]numbers)
+         {
+            int total = 0;
+            for ( int i=0; i < numbers.Length; i++)
+            {
+                total += numbers[i];
+            }
+            return total;
+         }
+
+    }  
 }
+

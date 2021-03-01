@@ -10,7 +10,7 @@ namespace AIE_Assessment_Exercise_06
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }

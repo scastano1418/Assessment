@@ -21,8 +21,30 @@ namespace AIE_Assessment_Exercise_05
                 numbers[i] = Int32.Parse(values[i]);
             }
 
-            // TODO:
-            // Write a function that accepts the integer array 'numbers' and outputs the sorted array to the console
+            SortDescending(numbers);
+
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                Console.Write(numbers[i] + ", ");
+            }
         }
+
+        static void SortDescending(int[] numbers)
+        {
+            for (int j = 0; j < numbers.Length + 1; j++)
+            {
+                for (int i = 0; i < numbers.Length - 1; i++)
+                {
+                    if (numbers[i] < numbers[i + 1])
+                    {
+                        int temp = numbers[i + 1];
+                        numbers[i + 1] = numbers[i];
+                        numbers[i] = temp;
+                    }
+                }
+            }
+
+        }
+
     }
 }

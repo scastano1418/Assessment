@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210717\\Downloads\\IntroToCSharpAssessment\\IntroToCSharpAssessment\\Assessment\\AIE_Assessment_Exercise_05\\AIE_Assessment_Exercise_05.csproj",
+      "projectUniqueName": "C:\\Users\\s210717\\Source\\Repos\\Assessment\\AIE_Assessment_Exercise_05\\AIE_Assessment_Exercise_05.csproj",
       "projectName": "AIE_Assessment_Exercise_05",
-      "projectPath": "C:\\Users\\s210717\\Downloads\\IntroToCSharpAssessment\\IntroToCSharpAssessment\\Assessment\\AIE_Assessment_Exercise_05\\AIE_Assessment_Exercise_05.csproj",
+      "projectPath": "C:\\Users\\s210717\\Source\\Repos\\Assessment\\AIE_Assessment_Exercise_05\\AIE_Assessment_Exercise_05.csproj",
       "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210717\\Downloads\\IntroToCSharpAssessment\\IntroToCSharpAssessment\\Assessment\\AIE_Assessment_Exercise_05\\obj\\",
+      "outputPath": "C:\\Users\\s210717\\Source\\Repos\\Assessment\\AIE_Assessment_Exercise_05\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

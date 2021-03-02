@@ -9,3 +9,14 @@ C:\Users\s210717\Downloads\IntroToCSharpAssessment\IntroToCSharpAssessment\Asses
 C:\Users\s210717\Downloads\IntroToCSharpAssessment\IntroToCSharpAssessment\Assessment\AIE_Assessment_Exercise_05\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.AssemblyInfo.cs
 C:\Users\s210717\Downloads\IntroToCSharpAssessment\IntroToCSharpAssessment\Assessment\AIE_Assessment_Exercise_05\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.dll
 C:\Users\s210717\Downloads\IntroToCSharpAssessment\IntroToCSharpAssessment\Assessment\AIE_Assessment_Exercise_05\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.pdb
+C:\Users\s210717\Source\Repos\Assessment\AIE_Assessment_Exercise_05\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.exe
+C:\Users\s210717\Source\Repos\Assessment\AIE_Assessment_Exercise_05\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.deps.json
+C:\Users\s210717\Source\Repos\Assessment\AIE_Assessment_Exercise_05\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.runtimeconfig.json
+C:\Users\s210717\Source\Repos\Assessment\AIE_Assessment_Exercise_05\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.runtimeconfig.dev.json
+C:\Users\s210717\Source\Repos\Assessment\AIE_Assessment_Exercise_05\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.dll
+C:\Users\s210717\Source\Repos\Assessment\AIE_Assessment_Exercise_05\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.pdb
+C:\Users\s210717\Source\Repos\Assessment\AIE_Assessment_Exercise_05\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.csprojAssemblyReference.cache
+C:\Users\s210717\Source\Repos\Assessment\AIE_Assessment_Exercise_05\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.AssemblyInfoInputs.cache
+C:\Users\s210717\Source\Repos\Assessment\AIE_Assessment_Exercise_05\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.AssemblyInfo.cs
+C:\Users\s210717\Source\Repos\Assessment\AIE_Assessment_Exercise_05\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.dll
+C:\Users\s210717\Source\Repos\Assessment\AIE_Assessment_Exercise_05\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_05.pdb

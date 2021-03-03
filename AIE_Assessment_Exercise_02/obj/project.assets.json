@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210717\\Source\\Repos\\Assessment\\AIE_Assessment_Exercise_02\\AIE_Assessment_Exercise_02.csproj",
+      "projectUniqueName": "C:\\Users\\s210717\\source\\repos\\Assessment\\AIE_Assessment_Exercise_02\\AIE_Assessment_Exercise_02.csproj",
       "projectName": "AIE_Assessment_Exercise_02",
-      "projectPath": "C:\\Users\\s210717\\Source\\Repos\\Assessment\\AIE_Assessment_Exercise_02\\AIE_Assessment_Exercise_02.csproj",
+      "projectPath": "C:\\Users\\s210717\\source\\repos\\Assessment\\AIE_Assessment_Exercise_02\\AIE_Assessment_Exercise_02.csproj",
       "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210717\\Source\\Repos\\Assessment\\AIE_Assessment_Exercise_02\\obj\\",
+      "outputPath": "C:\\Users\\s210717\\source\\repos\\Assessment\\AIE_Assessment_Exercise_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

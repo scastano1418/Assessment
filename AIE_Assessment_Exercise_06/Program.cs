@@ -13,7 +13,11 @@ namespace AIE_Assessment_Exercise_06
         {
             LoadFile("./wordlist/words.txt");
 
-            Print();
+            words.RemoveAt(0);
+
+            words.Sort();
+
+            CreateFile("./wordlist/output.txt");
         }
 
         static void LoadFile(string filename)
@@ -28,15 +32,18 @@ namespace AIE_Assessment_Exercise_06
             }
         }
 
-        static void Print()
+        static void CreateFile(string filename)
         {
-            foreach (string s in words)
+            var fileInfo = new FileInfo(filename);
+            Directory.CreateDirectory(fileInfo.Directory.FullName);
+
+            using (StreamWriter sw = File.CreateText(filename))
             {
-                Console.WriteLine(s);
+                foreach (string s in words)
+                {
+                    sw.WriteLine(s);
+                }  
             }
         }
     }
-
-
-
 }

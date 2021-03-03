@@ -1,0 +1,11 @@
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\obj\Debug\netcoreapp3.1\Exercises on Classes 1_ SayGreeting.csprojAssemblyReference.cache
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\obj\Debug\netcoreapp3.1\Exercises on Classes 1_ SayGreeting.AssemblyInfoInputs.cache
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\obj\Debug\netcoreapp3.1\Exercises on Classes 1_ SayGreeting.AssemblyInfo.cs
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\bin\Debug\netcoreapp3.1\Exercises on Classes 1_ SayGreeting.exe
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\bin\Debug\netcoreapp3.1\Exercises on Classes 1_ SayGreeting.deps.json
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\bin\Debug\netcoreapp3.1\Exercises on Classes 1_ SayGreeting.runtimeconfig.json
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\bin\Debug\netcoreapp3.1\Exercises on Classes 1_ SayGreeting.runtimeconfig.dev.json
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\bin\Debug\netcoreapp3.1\Exercises on Classes 1_ SayGreeting.dll
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\bin\Debug\netcoreapp3.1\Exercises on Classes 1_ SayGreeting.pdb
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\obj\Debug\netcoreapp3.1\Exercises on Classes 1_ SayGreeting.dll
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\obj\Debug\netcoreapp3.1\Exercises on Classes 1_ SayGreeting.pdb

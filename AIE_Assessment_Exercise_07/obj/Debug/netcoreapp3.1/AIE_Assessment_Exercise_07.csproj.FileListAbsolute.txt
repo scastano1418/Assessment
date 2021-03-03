@@ -1,0 +1,11 @@
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_07.exe
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_07.deps.json
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_07.runtimeconfig.json
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_07.runtimeconfig.dev.json
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_07.dll
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_07.pdb
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_07.csprojAssemblyReference.cache
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_07.AssemblyInfoInputs.cache
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_07.AssemblyInfo.cs
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_07.dll
+C:\Users\s210717\source\repos\Assessment\AIE_Assessment_Exercise_07\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_07.pdb

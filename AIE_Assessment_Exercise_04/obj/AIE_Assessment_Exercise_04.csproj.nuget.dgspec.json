@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s210717\\source\\repos\\Assessment\\AIE_Assessment_Exercise_04\\AIE_Assessment_Exercise_04.csproj": {}
+    "C:\\Users\\s210717\\Source\\Repos\\Assessment final\\AIE_Assessment_Exercise_04\\AIE_Assessment_Exercise_04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s210717\\source\\repos\\Assessment\\AIE_Assessment_Exercise_04\\AIE_Assessment_Exercise_04.csproj": {
+    "C:\\Users\\s210717\\Source\\Repos\\Assessment final\\AIE_Assessment_Exercise_04\\AIE_Assessment_Exercise_04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s210717\\source\\repos\\Assessment\\AIE_Assessment_Exercise_04\\AIE_Assessment_Exercise_04.csproj",
+        "projectUniqueName": "C:\\Users\\s210717\\Source\\Repos\\Assessment final\\AIE_Assessment_Exercise_04\\AIE_Assessment_Exercise_04.csproj",
         "projectName": "AIE_Assessment_Exercise_04",
-        "projectPath": "C:\\Users\\s210717\\source\\repos\\Assessment\\AIE_Assessment_Exercise_04\\AIE_Assessment_Exercise_04.csproj",
+        "projectPath": "C:\\Users\\s210717\\Source\\Repos\\Assessment final\\AIE_Assessment_Exercise_04\\AIE_Assessment_Exercise_04.csproj",
         "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s210717\\source\\repos\\Assessment\\AIE_Assessment_Exercise_04\\obj\\",
+        "outputPath": "C:\\Users\\s210717\\Source\\Repos\\Assessment final\\AIE_Assessment_Exercise_04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

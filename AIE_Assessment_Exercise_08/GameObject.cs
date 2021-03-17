@@ -4,14 +4,11 @@ using System.Text;
 
 namespace AIE_Assessment_Exercise_08
 {
-    class GameObject
+    abstract class GameObject
     {
         int xPosition;
         int yPosition;
 
-        public virtual void Draw()
-        {
-
-        }
+        public abstract void Draw();
     }
 }

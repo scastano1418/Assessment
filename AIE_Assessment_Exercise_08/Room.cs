@@ -8,7 +8,6 @@ namespace AIE_Assessment_Exercise_08
     {
         GameObject[] objects = new GameObject[3];
 
-
         public void AddGameObject(GameObject go)
         {
             for (int i = 0; i < objects.Length; i++)
@@ -54,7 +53,14 @@ namespace AIE_Assessment_Exercise_08
 
         public virtual void Draw()
         {
-
+            if(objects[0] == null)
+            {
+                Console.Write("_");
+            }
+            else
+            {
+                objects[0].Draw();
+            }
         }
     }
 }

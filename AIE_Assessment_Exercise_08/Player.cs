@@ -6,12 +6,14 @@ namespace AIE_Assessment_Exercise_08
 {
     class Player : Character
     {
-
-
-
-        public virtual void Draw()
+        public Player()
         {
 
+        }
+        
+        public override void Draw()
+        {
+            Console.Write("X");
         }
     }
 }

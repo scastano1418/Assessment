@@ -6,12 +6,9 @@ namespace AIE_Assessment_Exercise_08
 {
     class PowerUp : GameObject
     {
-
-
-
-        public virtual void Draw()
+        public override void Draw()
         {
-
+            Console.Write("?");
         }
     }
 }

@@ -4,11 +4,18 @@ using System.Text;
 
 namespace AIE_Assessment_Exercise_08
 {
-    class Character : GameObject
+    abstract class Character : GameObject
     {
-        int AT;
-        int HP;
-        int DF;
+        protected int AT;
+        protected int HP;
+        protected int DF;
+
+        public Character(int at, int hp, int df)
+        {
+            this.AT = at;
+            this.HP = hp;
+            this.DF = df;
+        }
 
         public bool IsAlive()
         {
@@ -16,3 +23,4 @@ namespace AIE_Assessment_Exercise_08
         }
     }
 }
+ 

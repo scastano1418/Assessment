@@ -9,3 +9,14 @@ C:\Users\s210717\Downloads\IntroToCSharpAssessment\IntroToCSharpAssessment\AIE_A
 C:\Users\s210717\Downloads\IntroToCSharpAssessment\IntroToCSharpAssessment\AIE_Assessment_Exercise_02\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.AssemblyInfo.cs
 C:\Users\s210717\Downloads\IntroToCSharpAssessment\IntroToCSharpAssessment\AIE_Assessment_Exercise_02\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.dll
 C:\Users\s210717\Downloads\IntroToCSharpAssessment\IntroToCSharpAssessment\AIE_Assessment_Exercise_02\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.pdb
+C:\Users\s210717\source\repos\Assessment final\AIE_Assessment_Exercise_02\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.exe
+C:\Users\s210717\source\repos\Assessment final\AIE_Assessment_Exercise_02\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.deps.json
+C:\Users\s210717\source\repos\Assessment final\AIE_Assessment_Exercise_02\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.runtimeconfig.json
+C:\Users\s210717\source\repos\Assessment final\AIE_Assessment_Exercise_02\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.runtimeconfig.dev.json
+C:\Users\s210717\source\repos\Assessment final\AIE_Assessment_Exercise_02\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.dll
+C:\Users\s210717\source\repos\Assessment final\AIE_Assessment_Exercise_02\bin\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.pdb
+C:\Users\s210717\source\repos\Assessment final\AIE_Assessment_Exercise_02\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.csprojAssemblyReference.cache
+C:\Users\s210717\source\repos\Assessment final\AIE_Assessment_Exercise_02\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.AssemblyInfoInputs.cache
+C:\Users\s210717\source\repos\Assessment final\AIE_Assessment_Exercise_02\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.AssemblyInfo.cs
+C:\Users\s210717\source\repos\Assessment final\AIE_Assessment_Exercise_02\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.dll
+C:\Users\s210717\source\repos\Assessment final\AIE_Assessment_Exercise_02\obj\Debug\netcoreapp3.1\AIE_Assessment_Exercise_02.pdb

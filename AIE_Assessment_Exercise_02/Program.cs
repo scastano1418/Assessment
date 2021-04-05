@@ -36,9 +36,11 @@ namespace AIE_Assessment_Exercise_02
             for (int i = 2; i < n; i++)
             {
                 int c = a + b;
-                Console.Write(" {0}", c);
+                
                 a = b;
                 b = c;
+                if (i < n - 1) Console.Write(" {0} ", c);
+                else Console.Write(" {0} ", c);
             }
         }
     }

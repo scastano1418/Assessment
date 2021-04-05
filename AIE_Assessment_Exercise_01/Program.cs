@@ -10,22 +10,20 @@ namespace AIE_Assessment_Exercise_01
     {
         static void Main(string[] args)
         {
-            float firstNumber = 0f;
-            float secondNumber = 0f;
-           
+            if (args.Length < 2) args = new string[] { "24, 85.3" };
 
-            if (args.Length < 2) args = new string[] { "1.1", "3.89" };
+            float firstNumber = float.Parse(args[0]);
+            float secondNumber = float.Parse(args[1]);
 
-            firstNumber = float.Parse(args[0]);
-            secondNumber = float.Parse(args[1]);
+            float result = AddNumbers(firstNumber, secondNumber);
 
-            float AddNumbers( float a, float b)
-            {
-                float result =  a + b;
-                return (result);
-            }
+            Console.WriteLine(result);
+        }
 
-            Console.WriteLine(AddNumbers(1.1f, 3.89f)); 
+        static int AddNumbers (float a, float b)
+        {
+            int result = (int)(a + b);
+            return result;
         }
     }
 }
